@@ -52,6 +52,5 @@ __Accurate Data Analysis:__ Reliable data cleaning enhanced the precision of ins
 __KPI-Driven Strategy:__ Visualized metrics like YTD sales and YOY growth to shape data-driven strategies.
 
 # Screenshots
-![Screenshot 2025-03-17 092929](https://github.com/user-attachments/assets/34e2a1df-7405-468c-b867-aecef067da10)
-![Screenshot 2025-03-17 092954](https://github.com/user-attachments/assets/56cfdc83-fce4-4ea6-bf38-2db1140c1dbf)
+![Screenshot 2025-03-17 092929](https://github.com/user-attachments/assets/34e2a1df-7405-468c-b867-aecef067da10) ![Screenshot 2025-03-17 092954](https://github.com/user-attachments/assets/56cfdc83-fce4-4ea6-bf38-2db1140c1dbf)
 
