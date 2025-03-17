@@ -2,6 +2,9 @@
 ## Overview
 This project focuses on building a dynamic car sales dashboard in Power BI, showcasing key performance indicators (KPIs) to provide actionable insights and enhance data-driven decision making by 20%. The dashboard serves as a strategic tool for visualizing sales trends and distribution, driving operational and business improvements.
 
+# Screenshots
+![Screenshot 2025-03-17 092929](https://github.com/user-attachments/assets/34e2a1df-7405-468c-b867-aecef067da10)![Screenshot 2025-03-17 092954](https://github.com/user-attachments/assets/56cfdc83-fce4-4ea6-bf38-2db1140c1dbf)
+
 ## Features
 ## Key Metrics Visualized
 
@@ -51,6 +54,4 @@ __Accurate Data Analysis:__ Reliable data cleaning enhanced the precision of ins
 
 __KPI-Driven Strategy:__ Visualized metrics like YTD sales and YOY growth to shape data-driven strategies.
 
-# Screenshots
-![Screenshot 2025-03-17 092929](https://github.com/user-attachments/assets/34e2a1df-7405-468c-b867-aecef067da10) ![Screenshot 2025-03-17 092954](https://github.com/user-attachments/assets/56cfdc83-fce4-4ea6-bf38-2db1140c1dbf)
 
