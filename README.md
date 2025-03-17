@@ -3,13 +3,13 @@
 This project focuses on building a dynamic car sales dashboard in Power BI, showcasing key performance indicators (KPIs) to provide actionable insights and enhance data-driven decision making by 20%. The dashboard serves as a strategic tool for visualizing sales trends and distribution, driving operational and business improvements.
 
 ## Features
-__Key Metrics Visualized__
+## Key Metrics Visualized
 
 Year-to-Date (YTD) Total Sales: Provides cumulative sales performance for the year.
 
 Year-over-Year (YOY) Growth: Tracks annual sales growth trends to evaluate market performance.
 
-__Data Cleaning and Preparation__
+## Data Cleaning and Preparation
 
 Processed and cleaned raw data in Excel, addressing:
 
@@ -21,7 +21,7 @@ Consistency and formatting issues.
 
 Improved analysis accuracy by 30%.
 
-__Visualization Techniques__
+## Visualization Techniques
 
 Designed interactive charts to showcase sales trends and distribution, including:
 
@@ -29,7 +29,7 @@ Area Charts: For time-series sales trends.
 
 Pie & Donut Charts: To highlight sales distribution across categories.
 
-__Dashboard Visuals__
+## Dashboard Visuals
 
 Included visuals showcasing the dashboard's layout and functionality:
 
@@ -40,13 +40,13 @@ Trends and Insights: Area charts displaying sales trends over time.
 Distribution Analytics: Pie and donut charts illustrating category-wise distribution.
 
 ## Technology Stack
-Power BI
+__Power BI__
 
-Microsoft Excel
+__Microsoft Excel__
 
-## Insights Delivered
-Enhanced Decision Making: Empowered stakeholders with clear visuals of sales trends and performance.
+# Insights Delivered
+__Enhanced Decision Making:__ Empowered stakeholders with clear visuals of sales trends and performance.
 
-Accurate Data Analysis: Reliable data cleaning enhanced the precision of insights generated.
+__Accurate Data Analysis:__ Reliable data cleaning enhanced the precision of insights generated.
 
-KPI-Driven Strategy: Visualized metrics like YTD sales and YOY growth to shape data-driven strategies.
+__KPI-Driven Strategy:__ Visualized metrics like YTD sales and YOY growth to shape data-driven strategies.
